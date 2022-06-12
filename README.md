@@ -1,6 +1,8 @@
 # Blog-Post-Website
 A blog posting webiste using node.js
 
+##Short Notes While learning  (Not For Beginners)(Should know some amount of node to understand this)
+
 node js
 Global object
 global.setTimeout / setTimeout -> same thing
